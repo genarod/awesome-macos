@@ -1151,6 +1151,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [mpv](https://mpv.io/) - A free, open source, and cross-platform media player. ![Open Source][oss]
 - [Natron](https://natrongithub.github.io/) - Open Source Compositing Software for VFX and Motion Graphics. ![Open Source][oss]
 - [No More Black Bars](https://arthursmithdev.gumroad.com/l/NoMoreBlackBars) - Safari extension that provides a true fullscreen experience by removing black bars from videos. ![Free][free]
+- [VLC](https://www.videolan.org/vlc/) - Multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs. ![Open Source][oss]
 - [Yoda](http://whoisandy.github.io/yoda/) - Browse and download YouTube videos. ![Open Source][oss]
 
 ### Virtualization
