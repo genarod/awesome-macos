@@ -345,7 +345,6 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 
 - [Canary](https://canarymail.io/) - Secure Email App for Mac and iPhone. ![Dollar][mon]
 - [eM Client](https://www.emclient.com) - Boost your email. Skyrocket your productivity. Free & ![Dollar][mon] ![Star][fav]
-- [FMail](https://fmail-app.fr/index.html?22050731) - The free native Mac application for Fastmail users. ![Free][free]
 - [imap-backup](https://github.com/joeyates/imap-backup) - Backup IMAP accounts to disk. ![Open Source][oss] 
 - [MailMate](https://freron.com/) - IMAP email client for macOS. ![Dollar][mon]
 - [Mailspring](https://getmailspring.com/) - Boost your productivity and send better emails. ![Free][free]
