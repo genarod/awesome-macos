@@ -1031,6 +1031,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Black Screen](https://github.com/vshatskyi/black-screen) - A terminal emulator for the 21st century. ![Open Source][oss]
 - [Electerm](https://github.com/electerm/electerm/) - Terminal/ssh/serial port/sftp client. ![Open Source][oss]
 - [Extraterm](https://extraterm.org/) - The swiss army chainsaw of terminal emulators. ![Open Source][oss]
+- [Ghostty](https://ghostty.org) - Fast, feature-rich, and cross-platform terminal emulator. ![Oepn Source][oss]
 - [Hyper](https://hyper.is/) - A JS/HTML/CSS Terminal. ![Open Source][oss]
 - [iTerm 2](https://iterm2.com/) - iTerm2 is a replacement for Terminal and the successor to iTerm. ![Open Source][oss] ![Star][fav]
 - [Kitty](https://github.com/kovidgoyal/kitty) - A cross-platform, fast, feature full, GPU based terminal emulator. ![Open Source][oss]
