@@ -626,6 +626,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [NetNewsWire](https://ranchero.com/netnewswire/) - More news, less junk. Faster. ![Free][free]
 - [PiBakery](https://www.pibakery.org/) - The easiest way to setup a Raspberry Pi. ![Free][free]
 - [QLMarkdown](https://github.com/sbarex/QLMarkdown) - Quick Look extension for Markdown files. ![Open Source][oss]
+- [Sweet Home 3D](https://www.sweethome3d.com) - Free interior design application. ![Open Souce][oss]
 - [Reeder 5](https://reeder.app/) - The best news reader for macOS. ![Dollar][mon]
 - [ResXtreme](http://resxtreme.com/) - Provides access to all display modes. ![Dollar][mon]
 - [RightFont 5](https://rightfontapp.com/) - Professional font manager app for Mac. ![Dollar][mon]
