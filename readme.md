@@ -107,7 +107,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [Overflow](https://stuntsoftware.com/overflow/) - The visual launcher for your Mac. ![Dollar][mon]
 - [Recents for Mac](https://recentsapp.com/) - Find files faster. ![Free][free]
 - [Slik](https://apps.inspira.io/en/slik/) - Fast app launcher and web app organizer. ![Dollar][mon]
-- [Sol](https://www.solapp.io/) - More than a launcher. ![Open Source][oss]
+- [Sol](https://sol.ospfranco.com) - More than a launcher. ![Open Source][oss]
 - [Start](https://start.innovative-bytes.net/) - A superior way to launch applications. ![Dollar][mon]
 - [Quicksilver](https://qsapp.com/) - Application launcher and much more. ![Open Source][oss]
 - [Raycast](https://www.raycast.com/) - Raycast is a blazingly fast, totally extendable launcher. ![Open Source][oss] ![Star][fav]
