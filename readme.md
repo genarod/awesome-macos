@@ -623,7 +623,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Mela](https://mela.recipes/) - A simple, elegant and modern recipe manager. ![Dollar][mon]
 - [Micro.blog](https://s3.amazonaws.com/micro.blog/mac/Micro.blog_1.9.zip) - The official macOS version of Micro.blog. ![Free][free]
 - [Middle](https://middleclick.app/) - Add middle click to your Mac. ![Dollar][mon]
-- [NetNewsWire](https://ranchero.com/netnewswire/) - More news, less junk. Faster. ![Free][free]
+- [NetNewsWire](https://netnewswire.com) - More news, less junk. Faster. ![Open Source][oss]
 - [PiBakery](https://www.pibakery.org/) - The easiest way to setup a Raspberry Pi. ![Free][free]
 - [QLMarkdown](https://github.com/sbarex/QLMarkdown) - Quick Look extension for Markdown files. ![Open Source][oss]
 - [Reeder 5](https://reeder.app/) - The best news reader for macOS. ![Dollar][mon]
