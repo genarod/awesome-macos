@@ -558,6 +558,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [HyperSwitch](https://bahoom.com/hyperswitch/) - Keyboard window switcher for macOS. ![Dollar][mon]
 - [Input Source Pro](https://inputsource.pro/) - Switch and track your input sources with ease ✨.
 - [KeyCue](https://www.ergonis.com/products/keycue/) - Find, remember, and learn keyboard shortcuts. ![Dollar][mon]
+- [KeepingYouAwake](https://keepingyouawake.app) - Prevents your Mac from going to sleep. ![Open Source][oss]
 - [NightOwl](https://nightowl.kramser.xyz/#) - Easily toggle dark mode on macOS. ![Open Source][oss]
 - [MenuBar Stats 3](https://seense.com/menubarstats/) - Advanced macOS System Monitor. ![Dollar][mon]
 - [Menuwhere](https://manytricks.com/menuwhere/) - The menu, anywhere. ![Dollar][mon]
