@@ -110,7 +110,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [Sol](https://www.solapp.io/) - More than a launcher. ![Open Source][oss]
 - [Start](https://start.innovative-bytes.net/) - A superior way to launch applications. ![Dollar][mon]
 - [Quicksilver](https://qsapp.com/) - Application launcher and much more. ![Open Source][oss]
-- [Raycast](https://www.raycast.com/) - Raycast is a blazingly fast, totally extendable launcher. ![Open Source][oss] ![Star][fav]
+- [Raycast](https://www.raycast.com/) - Raycast is a blazingly fast, totally extendable launcher. ![Free][free] ![Star][fav]
 - [Ueli](https://ueli.app) - A keystroke launcher for Windows and macOS. ![Open Source][oss]
 - [Workspaces](https://www.apptorium.com/workspaces) - Project-Based Launcher for macOS. ![Dollar][mon]
 - [Zazu](http://zazuapp.org) - A fully extensible and open source launcher for hackers, creators and dabblers. ![Open Source][oss]
