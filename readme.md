@@ -1028,7 +1028,6 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 ### Terminals
 
 - [Archipelago](https://archipelago.dev/) - Terminal emulator built on web technology. ![Open Source][oss]
-- [Black Screen](https://github.com/vshatskyi/black-screen) - A terminal emulator for the 21st century. ![Open Source][oss]
 - [Electerm](https://github.com/electerm/electerm/) - Terminal/ssh/serial port/sftp client. ![Open Source][oss]
 - [Extraterm](https://extraterm.org/) - The swiss army chainsaw of terminal emulators. ![Open Source][oss]
 - [Hyper](https://hyper.is/) - A JS/HTML/CSS Terminal. ![Open Source][oss]
